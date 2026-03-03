@@ -117,12 +117,12 @@ These files allow full reproducibility of results without retraining.
 
 <figure>
   <img width="501" height="156" alt="sign language accuracy" src="https://github.com/user-attachments/assets/d7796170-6340-47c7-b8e9-eef55165dbb6" />
-  <figcaption>Figure 1. Image of the accuracy and loss of the transfer learning model</figcaption>
+  <figcaption><em>Figure 1. Image of the accuracy and loss of the transfer learning model</em></figcaption>
 </figure>
 
 <figure>
   <img width="386" height="522" alt="sign language image" src="https://github.com/user-attachments/assets/04b67d04-981c-463d-8d0d-3ab5e99534c7" />
-  <figcaption>Figure 2. Image of the model being used to accurately identify the sign language character provided</figcaption>
+  <figcaption><em>Figure 2. Image of the model being used to accurately identify the sign language character provided</em></figcaption>
 </figure>
 
 ---
