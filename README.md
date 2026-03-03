@@ -110,6 +110,14 @@ These files allow full reproducibility of results without retraining.
 - The final model was used to:
   - Predict ASL letters
   - Convert predictions into readable text output
+ 
+---
+
+## Model Images
+
+<img width="501" height="156" alt="sign langauge accuracy" src="https://github.com/user-attachments/assets/d7796170-6340-47c7-b8e9-eef55165dbb6" />
+
+<img width="386" height="522" alt="sign language image" src="https://github.com/user-attachments/assets/a2b8c209-54c0-4352-b7f9-e028d9917c6e" />
 
 ---
 
